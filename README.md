@@ -2,6 +2,12 @@
 
 **Class 12 AI Capstone Project — AI Privacy in the Digital Age**
 
+*Contributor.*Vinit Chahande
+
+*class.*XII-B
+
+*School.*PM SHRI Jawahar Navodaya Vidyalaya,Selukate,Wardha
+
 ## What it does
 - Detects common patterns such as email addresses, phone numbers, password-like phrases, IP addresses, payment-card-like digit strings and PAN-like identifiers.
 - Masks detected values in the results.
